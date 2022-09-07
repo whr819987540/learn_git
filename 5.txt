@@ -1,1 +1,1 @@
-overwrite 5.txt (is this more efficient?)
+overwrite 5.txt (best version)
